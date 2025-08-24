@@ -1,4 +1,4 @@
-# Hospital Management System
+
 
 A **Windows Forms-based Hospital Management System** built using C# and .NET.  
 This application allows managing doctors, patients, and diagnoses in a hospital environment.
