@@ -7,7 +7,7 @@ This application allows managing doctors, patients, and diagnoses in a hospital 
 
 ## 📂 Project Structure
 
-`
+```
 HospitalManagementSystem/
 ├── Hospital_Management_System.sln
 ├── Hospital_Management_System/
@@ -39,7 +39,7 @@ HospitalManagementSystem/
 │ ├── Home.cs
 │ ├── Home.Designer.cs
 │ ├── Home.resx
-`
+```
 
 ## 💻 Features
 
